@@ -2,6 +2,12 @@
   "node": {
     "00030e158863f4c75465502e8f54db3177e82b1a74": {
       "workers": {
+        "app/dashboard/categories/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/categories/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "logout",
+          "filename": "app/actions/auth.ts"
+        },
         "app/dashboard/page": {
           "moduleId": "[project]/.next-internal/server/app/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions/auth.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": false,
@@ -28,6 +34,7 @@
         }
       },
       "layer": {
+        "app/dashboard/categories/page": "action-browser",
         "app/dashboard/page": "action-browser",
         "app/dashboard/products/[id]/page": "action-browser",
         "app/dashboard/products/page": "action-browser",

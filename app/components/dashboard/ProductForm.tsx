@@ -120,7 +120,6 @@ export function ProductForm({ product }: Props) {
   const isEdit = Boolean(product);
 
   const baseDefaults = product ? productToForm(product) : EMPTY_FORM;
-  console.log(product, '---product');
 
   const {
     register,
