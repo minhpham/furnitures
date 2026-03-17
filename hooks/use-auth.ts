@@ -61,7 +61,7 @@ export function useSignup() {
 
   return useMutation({
     mutationFn: (data: SignupPayload) =>
-      api.post<SignupResponse>("/api/v1/auth/signup", data),
+      api.post<SignupResponse>("/api/v1/auth/register", data),
     onSuccess: () => {
       router.push("/");
     },
