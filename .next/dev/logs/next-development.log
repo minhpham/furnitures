@@ -26,3 +26,4 @@
 [04:09:18.751] Server  LOG     ✓ Compiled in 80ms
 [04:09:32.985] Server  LOG     http://localhost:3000 "check env"
 [04:09:39.571] Server  LOG     ✓ Compiled in 99ms
+[04:10:03.485] Server  LOG     http://localhost:3000 "check env"
