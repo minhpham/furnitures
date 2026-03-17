@@ -1,0 +1,10 @@
+# compiled output
+/dist
+/node_modules
+/build
+.claude
+CLAUDE.MD
+
+# dotenv environment variable files
+.env
+.env.development
