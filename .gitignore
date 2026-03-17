@@ -4,7 +4,9 @@
 /build
 .claude
 CLAUDE.MD
+.next/
 
 # dotenv environment variable files
 .env
 .env.development
+.env.production
