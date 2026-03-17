@@ -27,3 +27,15 @@
 [04:09:32.985] Server  LOG     http://localhost:3000 "check env"
 [04:09:39.571] Server  LOG     ✓ Compiled in 99ms
 [04:10:03.485] Server  LOG     http://localhost:3000 "check env"
+[04:27:54.564] Server  LOG     http://localhost:3000 "check env"
+[04:28:17.614] Server  LOG     ✓ Compiled in 73ms
+[04:28:25.975] Server  LOG     ✓ Compiled in 89ms
+[04:28:26.432] Browser LOG     http://localhost:3000 check env
+[04:28:26.432] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env
+[04:28:28.475] Browser LOG     http://localhost:3000 check env
+[04:28:28.475] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env
+[04:28:28.475] Browser LOG     http://localhost:3000 check env
+[04:28:28.475] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env
+[04:28:28.710] Server  LOG     http://localhost:3000 "check env"
+[04:28:29.358] Browser LOG     http://localhost:3000 check env
+[04:28:29.358] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env

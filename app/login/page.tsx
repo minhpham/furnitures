@@ -11,8 +11,6 @@ const ROOM_IMAGE =
   'https://images.unsplash.com/photo-1680416124536-22b16c411402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080';
 
 export default function LoginPage() {
-  console.log(process.env.NEXT_PUBLIC_API_URL, 'check env');
-
   return (
     <div className='min-h-screen bg-[#F5F5F5] flex flex-col'>
       {/* Header */}
