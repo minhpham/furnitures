@@ -5,6 +5,7 @@
 .claude
 CLAUDE.MD
 .next/
+.next
 
 # dotenv environment variable files
 .env

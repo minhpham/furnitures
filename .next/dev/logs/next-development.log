@@ -39,3 +39,6 @@
 [04:28:28.710] Server  LOG     http://localhost:3000 "check env"
 [04:28:29.358] Browser LOG     http://localhost:3000 check env
 [04:28:29.358] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env
+[04:43:41.422] Server  LOG     ✓ Compiled in 47ms
+[04:43:42.437] Browser LOG     http://localhost:3000 check env
+[04:43:42.437] Browser LOG     [2;38;2;124;124;124m%s[0m http://localhost:3000 check env

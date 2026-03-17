@@ -8,7 +8,6 @@ interface Props {
 
 export default async function ProductDetailPage({ params }: Props) {
   const { id } = await params;
-  console.log('-ProductDetailPage', id);
 
   let product;
   try {
